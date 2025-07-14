@@ -1,12 +1,12 @@
 {
-  "name": "splayer",
+  "name": "炫音乐",
   "version": "2.6.0",
   "description": "一个部署简单且界面美观的音乐播放器",
   "main": "./out/main/index.js",
   "author": "IamFurina",
-  "home": "https://index.focalors.ltd",
-  "github": "https://github.com/IamFurina/SPlayer",
-  "repository": "github:IamFurina/SPlayer",
+  "home": "https://player.xuan2025.xyz",
+  "github": "https://github.com/VRkirito/SPlayer",
+  "repository": "github:VRkirito/SPlayer",
   "license": "AGPL-3.0",
   "license-file": "LICENSE",
   "engines": {
